@@ -198,20 +198,23 @@ class Carrito {
     //Calcular montos
     calcularTotal(){
         let productosLS;
-        let total = 0, igv = 0, subtotal = 0;
+        let total = 0, iva = 0, subtotal = 0;
         productosLS = this.obtenerProductosLocalStorage();
         for(let i = 0; i < productosLS.length; i++){
             let element = Number(productosLS[i].precio * productosLS[i].cantidad);
             total = total + element;
             
         }
-        
-        igv = parseFloat(total * 0.18).toFixed(2);
-        subtotal = parseFloat(total-igv).toFixed(2);
+        subtotal = parseFloat(total/1.19).toFixed(0);
+        iva = parseFloat(subtotal*0.19).toFixed(0);
 
-        document.getElementById('subtotal').innerHTML = "S/. " + subtotal;
-        document.getElementById('igv').innerHTML = "S/. " + igv;
-        document.getElementById('total').value = "S/. " + total.toFixed(2);
+        let formatoSubtotal = parseFloat(subtotal).toLocaleString('es-ES');
+        let formatoTotal = parseFloat(total).toLocaleString('es-ES');
+        let formatoIva = parseFloat(iva).toLocaleString('es-ES');
+
+        document.getElementById('subtotal').innerHTML = "$: " + formatoSubtotal;
+        document.getElementById('igv').innerHTML = "$: " + formatoIva;
+        document.getElementById('total').value = "$: " + formatoTotal;
     }
 
     obtenerEvento(e) {
