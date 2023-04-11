@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "marca": "SENZER SG500 Surround Sound Pro",
+    "imagen": "https://i.postimg.cc/cCrgNq4W/senzer-sg500-surround-sound-pro.webp",
+    "precio": "350000",
+    "detalles": [
+      "Los auriculares Senzer SG500 son plegables, livianos y cómodos con almohadillas desmontables. Cuentan con micrófono antiestático con cancelación de ruido y capacidad de sonido envolvente. Son compatibles con múltiples plataformas y Plug and Play."
+    ]
+  },
+
+  {
+    "id": 2,
+    "marca": "sephia SP3060 Auriculares",
+    "imagen": "https://i.postimg.cc/PfRvQq25/sephia-sp3060-auriculares.webp",
+    "precio": "200000",
+    "detalles": [
+      "Auriculares con cable ideales para correr o hacer ejercicio, con 6 juegos de almohadillas y un potente imán de neodimio de 0.394 in para una excelente claridad de audio y aislamiento de ruido. Diseño ligero y elegante en color plateado y negro."
+    ]
+  },
+
+  {
+    "id": 3,
+    "marca": "Auriculares inalámbricos JBL Tune 125TWS",
+    "imagen": "https://i.postimg.cc/VL0rGcVB/s-inal195161mbricos-jbl-tune-125tws.webp",
+    "precio": "150000",
+    "detalles": [
+      "Ofrecen un sonido de graves puros de alta calidad y hasta 32 horas de duración de batería. Además, se emparejan fácilmente con dispositivos Android. Los auriculares cuentan con controles independientes para llamadas y música."
+    ]
+  },
+
+  {
+    "id": 4,
+    "marca": "Luckyu Auriculares Bluetooth 5.0 con orejas de gato",
+    "imagen": "https://i.postimg.cc/MGmj7brC/luckyu-auriculares-inalambrico.webp",
+    "precio": "400000",
+    "detalles": [
+      "Auriculares Bluetooth 5.0 plegables con aislamiento de ruido, micrófono integrado, tres modos de reproducción de música, modo FM, diadema ajustable y cómoda, orejas de gato con luces LED y batería recargable de 400 mAh."
+    ]
+  },
+
+  {
+    "id": 5,
+    "marca": "Itayak Bluetooth 5.0",
+    "imagen": "https://i.postimg.cc/Gh6Ydpy5/itayak-bluetooth-5-0.webp",
+    "precio": "250000",
+    "detalles": [
+      "Auriculares detrás de la cabeza con tecnología Bluetooth 5.0 ofrecen una transmisión más rápida y una conexión estable con dispositivos Bluetooth. Con un rango de conexión de 33 pies, proporcionan llamadas telefónicas manos libres."
+    ]
+  },
+
+  {
+    "id": 6,
+    "marca": "Otium Auriculares Bluetooth inalámbricos",
+    "imagen": "https://i.postimg.cc/fRXdLh7T/iculares-bluetooth-inal195161mbricos.webp",
+    "precio": "180000",
+    "detalles": [
+      "Los auriculares Bluetooth U18 cuentan con la última tecnología Bluetooth 5.1 y componentes acústicos mejorados para ofrecer auténtico sonido HD de alta fidelidad con graves profundos y agudos cristalinos. "
+    ]
+  },
+
+  {
+    "id": 7,
+    "marca": "EKSA E900 - Auriculares para juegos con micró",
+    "imagen": "https://i.postimg.cc/zfrgHPpw/eksa-e900-auriculares-para-juegos.webp",
+    "precio": "380000",
+    "detalles": [
+      "Tienen un micrófono desmontable con tecnología de cancelación de ruido omnidireccional, con ajuste de volumen, son ideales para juegos, trabajo, estudios, chats y Skype. Transmisiones de voz fuertes y de alta calidad garantizadas."
+    ]
+  },
+
+  {
+    "id": 8,
+    "marca": "Auriculares inalámbricos Bluetooth ZIYOU LANG",
+    "imagen": "https://i.postimg.cc/vBPgj8yX/auriculares-inal195161mbricosziyou.webp",
+    "precio": "300000",
+    "detalles": [
+      "Están equipados con altavoz de alta calidad y micrófono integrado, pueden ofrecer un sonido estéreo de alta resolución o graves profundos al escuchar música, te mantienen alejado del ruido circundante."
+    ]
+  },
+
+  {
+    "id": 9,
+    "marca": "Auriculares inalámbricos Bluetooth PSIER",
+    "imagen": "https://i.postimg.cc/T1FydkpD/auriculares-inal195161mbricospsier.webp",
+    "precio": "170000",
+    "detalles": [
+      "Tienen almohadillas de silicona planas y redondas para adaptarse a diferentes orejas, ganchos antideslizantes para un ajuste seguro durante el ejercicio y un sello acústico que cierra el sonido. Diseñados para comodidad durante largas horas de uso."
+    ]
+  },
+
+  {
+    "id": 10,
+    "marca": "Audífonos inalámbricos Bluetooth PRTUKYT",
+    "imagen": "https://i.postimg.cc/ZRYvVBGC/95173fonos-inal195161mbricos-prtukyt.webp",
+    "precio": "200000",
+    "detalles": [
+      "Audífonos inalámbricos con chip Bluetooth 5.0 avanzado, graves profundos y agudos cristalinos, recargables y con respuesta precisa de graves. Ofrecen calidad de sonido superior, rango de frecuencia ampliado y música envolvente a bajo volumen."
+    ]
+  }
+]
